@@ -1,6 +1,3 @@
-#COMP392-Project
+#COMP392-Assignment-03
 
-###Group 
-#####Mohammed Ahmed
 #####Ryan Sterling
-#####Joshua Collaco

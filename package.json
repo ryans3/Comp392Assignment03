@@ -1,7 +1,7 @@
 {
-  "name": "comp392-finalproject",
+  "name": "comp392-Assignment03",
   "version": "1.0.0",
-  "description": "COMP392-Final Project",
+  "description": "COMP392-Assignment-03",
   "main": "game.js",
   "dependencies": {
     "typescript": "^1.8.7"
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/300833356COMP392/FinalProject.git"
+    "url": "git+https://github.com/ryans3/Comp392Assignment03"
   },
   "author": "Tom Tsiliopoulos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/300833356COMP392/FinalProject/issues"
+    "url": "https://github.com/ryans3/Comp392Assignment03"
   },
-  "homepage": "https://github.com/300833356COMP392/FinalProject#readme"
+  "homepage": "https://github.com/ryans3/Comp392Assignment03"
 }

@@ -1,5 +1,15 @@
 /// <reference path="_reference.ts"/>
 
+
+/* 
+Author: Ryan Sterling 300509648-->
+Source File Name: Comp 392 Assignment 03 -->
+Last Modified By: Ryan Sterling 300509648-->
+Date Last Modified By: April 17,2016 -->
+Program Description: Jumping Justice-->
+Revision History: https://github.com/ryans3/Comp392Assignment03 -->
+*/
+
 // MAIN GAME FILE
 
 // THREEJS Aliases
