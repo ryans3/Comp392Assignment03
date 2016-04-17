@@ -1,0 +1,28 @@
+{
+  "name": "comp392-finalproject",
+  "authors": [
+    "Mohammed Ahmed, Ryan Sterling, Joshua Collaco"
+  ],
+  "description": "COMP392 Final Project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/300833356COMP392/FinalProject",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "stats.js": "*",
+    "Physijs": "physijs#*",
+    "EaselJS": "^0.8.2",
+    "TweenJS": "^0.6.2",
+    "SoundJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
+  }
+}
